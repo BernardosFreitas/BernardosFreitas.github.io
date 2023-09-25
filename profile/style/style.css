@@ -397,10 +397,23 @@ footer {
   .displayContato {
     flex-direction: column;
   }
+   form {
+    font-size: 15px;
+    max-width: 300px;
+    padding-left: 15%;
+    color: aliceblue; 
+    padding-bottom: 5%;
+    padding-top: 5%;
+  }
+
+  .mensagem {
+    margin-left: 0px;
+    margin-top: 20px;
+  }
+
 
   textarea {
     width: 200px;
-  
   }
 
   .mapa {
